@@ -1,8 +1,5 @@
 # Análisis de Deforestación en las Provincias de Perú
 
-![Mapa Provincias que Mejoraron](./provincias_mejoraron.png)
-![Mapa Provincias que Empeoraron](./provincias_empeoraron.png)
-
 
 ## Contenido del Repositorio
 
@@ -10,6 +7,12 @@
 - `index.ipynb`: Notebook con el código utilizado para el análisis, visualización y procesamiento de los datos.
 - `provincias_mejoraron.png`: Mapa que muestra las provincias que mejoraron en deforestación.
 - `provincias_empeoraron.png`: Mapa que muestra las provincias que empeoraron en deforestación.
+
+
+![Mapa Provincias que Mejoraron](./provincias_mejoraron.png)
+![Mapa Provincias que Empeoraron](./provincias_empeoraron.png)
+
+
 
 Link: https://hakufer.github.io/week2_spatialB/
 

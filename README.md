@@ -1,4 +1,4 @@
-# Análisis de Deforestación en las Provincias de Perú
+# Análisis de la Deforestación en las Provincias del Perú
 
 
 ## Contenido del Repositorio

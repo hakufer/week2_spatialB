@@ -4,12 +4,12 @@
 ![Mapa Provincias que Empeoraron](./provincias_empeoraron.png)
 
 
-Contenido del Repositorio
+## Contenido del Repositorio
 
-data/: Carpeta que contiene los archivos de datos utilizados en este análisis, incluyendo shapefiles de las provincias de Perú y datos de deforestación.
-index.ipynb: Notebook con el código utilizado para el análisis, visualización y procesamiento de los datos.
-provincias_mejoraron.png: Mapa que muestra las provincias que mejoraron en deforestación.
-provincias_empeoraron.png: Mapa que muestra las provincias que empeoraron en deforestación.
+- `data/`: Carpeta que contiene los archivos de datos utilizados en este análisis, incluyendo shapefiles de las provincias de Perú y datos de deforestación.
+- `index.ipynb`: Notebook con el código utilizado para el análisis, visualización y procesamiento de los datos.
+- `provincias_mejoraron.png`: Mapa que muestra las provincias que mejoraron en deforestación.
+- `provincias_empeoraron.png`: Mapa que muestra las provincias que empeoraron en deforestación.
 
 Link: https://hakufer.github.io/week2_spatialB/
 

@@ -28,5 +28,5 @@ Link: https://hakufer.github.io/week2_spatialB/
 | Variable | Descripción |
 | --- | --- |
 | **Departamento** | Nombre del departamento. |
-| **2010 - 2021** | Número de hectáreas deforestadas por año. |
+| **2013 - 2021** | Número de hectáreas deforestadas por año. |
 
